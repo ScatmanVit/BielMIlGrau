@@ -33,7 +33,7 @@ $valor3= rand(2, 150);
 // Chamar a função novamente e exibir o segundo resultado
 $resultado2 = calcularProporcao($valor1, $valor2, $valor3);
 echo "Resultado 2: " . $resultado2;
-
+echo "hahahah";
 
 // Soma dois números e verifica se a soma é par ou ímpar.
 // Retorna "Par" se a soma for par, senão retorna "Ímpar".
